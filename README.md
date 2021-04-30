@@ -1,7 +1,5 @@
-# R.A.Maholics 
-CS3443-003: Java Application Project 
-
 R.A.M (Restaurant Activites Manager) 
+R.A.Maholics
 
 Members: 
 - Dinh Tran
@@ -12,9 +10,8 @@ Members:
 A tool for restaurant operations such as order taking, table scheduling, salaries, revenue, and employee clocking (in/out) timestamps.
 
 Known bugs include:
-	1- Employee creation writer to employee.txt doesn't write the contents.
-	2- If trying to collect Revenue collected you must be precise on dates entered that those were actual days logged in revenue.txt ; 
-	3- Revenue home button returns to login screen.
+	1- If trying to collect Revenue collected you must be precise on dates entered that those were actual days logged in revenue.txt ; 
+	2- Revenue home button returns to login screen.
 
 Pass code : 0313
 Java 1.8 compiler
